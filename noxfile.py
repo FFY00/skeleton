@@ -54,9 +54,10 @@ def test(session):
 
     session.run(
         'pytest',
-        '--showlocals', '-vv',
+        '--showlocals',
+        '-vv',
         '--cov',
         f'--cov-report=html:{htmlcov_output}',
         f'--cov-report=xml:{xmlcov_output}',
-        *session.posargs
+        *session.posargs,
     )
