@@ -10,6 +10,7 @@ extensions = [
     'sphinx_autodoc_typehints',
     'sphinx_copybutton',
     'sphinx_design',
+    'sphinx_issues',
     'sphinxcontrib.spelling',
     'sphinxext.opengraph',
 ]
