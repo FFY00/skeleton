@@ -41,5 +41,5 @@ html_theme_options = {
 spelling_show_suggestions = True
 spelling_warning = True
 
-ogp_site_url = 'https://meson-python.readthedocs.io'
-ogp_site_name = 'meson-python documentation'
+ogp_site_url = f'https://{project}.readthedocs.io'
+ogp_site_name = '{project} documentation'
