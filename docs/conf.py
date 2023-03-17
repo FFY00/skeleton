@@ -26,6 +26,8 @@ autoclass_content = 'both'
 
 todo_include_todos = True
 
+issues_github_path = f'FFY00/{project}'
+
 html_theme = 'furo'
 html_title = f'{project} {version}'
 
