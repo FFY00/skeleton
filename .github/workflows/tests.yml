@@ -1,4 +1,8 @@
-name: test
+# SPDX-FileCopyrightText: 2023 Filipe Laíns
+#
+# SPDX-License-Identifier: MIT
+
+name: tests
 
 on:
   push:

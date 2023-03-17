@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Filipe Laíns
+
+SPDX-License-Identifier: MIT
+-->
+
 # skeleton
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/FFY00/PROJECT/main.svg)](https://results.pre-commit.ci/latest/github/FFY00/PROJECT/main)

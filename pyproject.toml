@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 Filipe Laíns
+#
+# SPDX-License-Identifier: MIT
+
 [build-system]
 requires = ["flit-core >= 3.4"]
 build-backend = "flit_core.buildapi"
