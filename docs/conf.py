@@ -16,6 +16,7 @@ extensions = [
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
+    'importlib_metadata': ('https://importlib-metadata.readthedocs.io/en/latest/', None),
     'importlib_resources': ('https://importlib-resources.readthedocs.io/en/latest/', None),
 }
 
