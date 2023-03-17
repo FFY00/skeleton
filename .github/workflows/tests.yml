@@ -77,7 +77,7 @@ jobs:
           python-version: 3.7
 
       - name: Install mypy
-        run: python -m pip --disable-pip-version-check install mypy==0.991
+        run: python -m pip --disable-pip-version-check install .[typing]
 
       - name: Run mypy
         run: mypy -p PROJECT
