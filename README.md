@@ -14,6 +14,7 @@ SPDX-License-Identifier: MIT
 [![PyPI version](https://badge.fury.io/py/PROJECT.svg)](https://pypi.org/project/PROJECT/)
 
 Inspired from:
+
 - https://github.com/jaraco/skeleton
 - https://github.com/dinoboff/skeleton
 
